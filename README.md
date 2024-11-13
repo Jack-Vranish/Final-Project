@@ -5,7 +5,7 @@
 5. Thomas Slomeana TDS82@pitt.edu
 6. Drew Rosinsky DBR19@pitt.edu
 7. Links to Datasets:
-
+Thomas - https://data.wprdc.org/dataset/fb72c35f-ad18-42ff-adad-2a6d0480f348/resource/62403582-e6c3-40b6-9bb6-d5d38e3f058d/download/neighborhood_iep.csv
 8. This Project is based around using data from Pittsburgh databases to determine which neighborhood is the best one to get rich in.
 
 9. For Group:
