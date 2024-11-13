@@ -13,4 +13,5 @@
 11. ****CHECK IF YOU ARE IN THE REPOSITORY***
 12. IF NOT: cd Final-Project
 13. After: cd add .
-14. git commit -m "<<WHATEVER COMMENT YO
+14. git commit -m "WHATEVER COMMENT YOU WANT TO ADD TO DESCRIBE CHANGE"
+15. git push origin main
