@@ -13,10 +13,9 @@ Drew - https://data.wprdc.org/dataset/business-contractors-trades/resource/e88c1
 11. Commands to commit:
 12. ****CHECK IF YOU ARE IN THE REPOSITORY***
 13. IF NOT: cd Final-Project
-14. After: cd add .
+14. After: git add .
 <<<<<<< HEAD
 15. git commit -m "WHATEVER COMMENT YOU WANT TO ADD TO DESCRIBE CHANGE"
 16. git push origin main
 =======
-14. git commit -m "<<WHATEVER COMMENT YO
 >>>>>>> 8cd26bd0d6357af06cc441214cbbebb5d81f8648
