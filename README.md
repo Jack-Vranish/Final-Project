@@ -1,5 +1,5 @@
 1. Team Name: Team Name
-2. Topic: Easiest Neighborhood to get rich in
+2. Topic: Easiest Neighborhood to have a dog in
 3. Team Members:
 4. Jack Vranish jgv26@pitt.edu
 5. Thomas Slomeana TDS82@pitt.edu
