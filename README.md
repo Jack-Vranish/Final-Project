@@ -1,4 +1,4 @@
-1. Team Name: Team Name
+1. Team Name: The Dog Squad
 2. Topic: Easiest Neighborhood to have a dog in
 3. Team Members:
 4. Jack Vranish jgv26@pitt.edu
