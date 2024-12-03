@@ -6,7 +6,7 @@
 6. Drew Rosinsky DBR19@pitt.edu
 7. Links to Datasets:
 Thomas - https://data.wprdc.org/dataset/fb72c35f-ad18-42ff-adad-2a6d0480f348/resource/62403582-e6c3-40b6-9bb6-d5d38e3f058d/download/neighborhood_iep.csv
-Drew - https://data.wprdc.org/dataset/business-contractors-trades/resource/e88c10d5-541d-417f-aef6-25cc5637aeb1
+Drew - https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
 Jack - https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/3ca13246362540fa8b4b567f84a1255b_0.csv?outSR=%7B%22latestWkid%22%3A6565%2C%22wkid%22%3A103142%7D
 9. This Project is based around using data from Pittsburgh databases to determine which neighborhood is the best one to get rich in.
 
