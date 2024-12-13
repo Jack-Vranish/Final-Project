@@ -1,3 +1,4 @@
+Canvas Group 8<br>
 1. Team Name: Team Name
 2. Topic: Easiest Neighborhood to have a dog in
 3. Team Members:
