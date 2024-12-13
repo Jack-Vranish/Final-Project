@@ -11,7 +11,8 @@
 9. This Project is based around using data from Pittsburgh databases to determine which neighborhood is the best to raise a dog in.
 <br>Notebooks:
 <br>Drew's Notebook: dbr19-Final-Project.ipynb
-<br>Jac
+<br>Thomas's Notebook: Thomas-Final-Notebook.ipynb
+<br>Jack's Notebook: Jack-Vranish-Dataset.ipynb
 11. For Group:
 12. Commands to commit:
 13. ****CHECK IF YOU ARE IN THE REPOSITORY***
