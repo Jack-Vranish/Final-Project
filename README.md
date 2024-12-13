@@ -18,8 +18,6 @@
 13. ****CHECK IF YOU ARE IN THE REPOSITORY***
 14. IF NOT: cd Final-Project
 15. After: git add .
-<<<<<<< HEAD
 16. git commit -m "WHATEVER COMMENT YOU WANT TO ADD TO DESCRIBE CHANGE"
 17. git push origin main
-=======
->>>>>>> 8cd26bd0d6357af06cc441214cbbebb5d81f8648
+
